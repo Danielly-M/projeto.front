@@ -1,0 +1,19 @@
+body{
+    background-color:black;
+    color:bisque;
+    h1{
+        font-weight: bold;
+}
+
+span{
+        color: #22D4FD;
+        padding: 10px;
+}
+*{
+        margin: 0;
+        padding: 0;
+}
+.principal{
+        background-image: url("img/imagem.png");
+}
+}
